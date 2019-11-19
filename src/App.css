@@ -1,22 +1,9 @@
-.App {
-  text-align: center;
+body {
+  background-color: #f5f6fa;
 }
-
-.App-logo {
-  height: 40vmin;
+.navbar {
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
+.card {
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
 }
