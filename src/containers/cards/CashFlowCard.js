@@ -1,5 +1,6 @@
 import React from 'react';
-import CashFlowChart from '../../components/CashFlowChart.js';
+import CashFlowChart from '../../components/CashFlowChart';
+import MoreDetailButton from '../../components/MoreDetailButton';
 
 const CashFlowCard = props => {
   let styles = {
@@ -15,6 +16,7 @@ const CashFlowCard = props => {
       <div className='card-body'>
         <h3 className='card-title'>Cash Flow Overview</h3>
         <CashFlowChart />
+        <MoreDetailButton />
       </div>
     </div>
   );
