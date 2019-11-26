@@ -21,7 +21,7 @@ function Nav() {
         </li>
       </ul>
       <a className='form-inline my-2 my-lg-0' href='/'>
-        <p className='my-2 my-sm-0 lead'>Ellen Silva</p>
+        <p className='my-2 my-sm-0 lead'>Isaac Waitman</p>
       </a>
     </nav>
   );
