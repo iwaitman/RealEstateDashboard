@@ -10,17 +10,17 @@ function Nav() {
           </a>
         </li>
         <li className='nav-item'>
-          <a className='nav-link' href='/'>
+          <a className='nav-link' href='/properties'>
             PROPERTIES
           </a>
         </li>
         <li className='nav-item'>
-          <a className='nav-link' href='/'>
+          <a className='nav-link' href='/accounting'>
             ACCOUNTING
           </a>
         </li>
       </ul>
-      <a className='form-inline my-2 my-lg-0' href='/'>
+      <a className='form-inline my-2 my-lg-0' href='/profile'>
         <p className='my-2 my-sm-0 lead'>Isaac Waitman</p>
       </a>
     </nav>
